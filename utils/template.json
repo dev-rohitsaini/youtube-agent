@@ -1,0 +1,48 @@
+{
+  "task_summary": "Concise overview of what was analyzed or researched.",
+  
+  "video_analysis": {
+    "video_title": "Title or identifier of the video",
+    "key_frames": [
+      {"timestamp": "00:01:35", "description": "Important scene starts here."},
+      {"timestamp": "00:03:20", "description": "Major event or visual clue."}
+    ],
+    "topics_covered": [
+      "Topic 1",
+      "Topic 2",
+      "Topic 3"
+    ],
+    "transcription_summary": "Short summarized transcript of key sections.",
+    "notable_quotes": [
+      {"timestamp": "00:02:10", "quote": "This is a key statement from the speaker."}
+    ],
+    "emotions_detected": [
+      {"timestamp": "00:04:15", "emotion": "Excitement"}
+    ],
+    "visual_summary": "Summary of visual elements and changes throughout the video."
+  },
+  
+  "research_analysis": {
+    "main_findings": [
+      "Summary point 1",
+      "Summary point 2",
+      "Summary point 3"
+    ],
+    "relevant_sources": [
+      {"title": "Source 1", "link": "URL", "key_points": ["Point A", "Point B"]},
+      {"title": "Source 2", "link": "URL", "key_points": ["Point C", "Point D"]}
+    ],
+    "insights": [
+      "Insight 1: Implications or derived knowledge.",
+      "Insight 2: Contrasting viewpoints or unique data."
+    ],
+    "recommendations": [
+      "Actionable recommendation 1",
+      "Actionable recommendation 2"
+    ]
+  },
+  
+  "conclusion": "Final summary combining both video analysis and research findings into actionable takeaways.",
+  
+  "confidence_score": "Optional: Percentage or qualitative assessment of AI confidence in the outputs."
+}
